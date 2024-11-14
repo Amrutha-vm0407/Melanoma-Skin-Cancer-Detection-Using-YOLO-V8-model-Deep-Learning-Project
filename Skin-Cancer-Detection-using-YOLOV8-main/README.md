@@ -3,7 +3,7 @@
 <p>Melanoma is a type of skin cancer that originates from the pigment producing cells known as melanocytes. Melanoma is considered more dangerous than other types of skin cancer due to its ability to spread to other parts of the body. With modern technology, it is feasible to detect skin cancer at an early stage and treat it effectively. Traditional methods of melanoma detection rely on visual inspection, checking the biopsy results by dermatologists which is time consuming and is prone to human errors. Leveraging the advancements using deep learning technology.  </p>
 
 <h1>Language used</h1>
-<p><b>Python :</b>Python libraries are pre-written collections of code that simplify tasks, from data manipulation (like *Pandas* and *NumPy*) to machine learning (*scikit-learn* and *TensorFlow*), and more. They help developers write efficient, reusable, and maintainable code without starting from scratch.</p>
+<p><b>Python :</b>Python libraries are pre-written collections of code that simplify tasks, from data manipulation (like *Pandas* and *NumPy*) to machine learning (*TensorFlow* and *Ultralytics*), and more. They help developers write efficient, reusable, and maintainable code without starting from scratch.</p>
 
 <h1>Tools used</h1>
 <li>Ultralytics : It is a library used for real time object detection and classification with high accuracy . </li>
