@@ -83,7 +83,7 @@
 
 
 <h1>Graphical Representaion of accuracy comparision</h1>
-<img src=Skin-Cancer-Detection-using-YOLOV8-main/Final Images/Accuracy%20acheived.png width="1000" height="800">
+<img src=Skin-Cancer-Detection-using-YOLOV8-main/Final%20Images/Accuracy%20acheived.png width="1000" height="800">
 
 <h1>Requirements</h1>
 <li>Pycharm 2020</li>
