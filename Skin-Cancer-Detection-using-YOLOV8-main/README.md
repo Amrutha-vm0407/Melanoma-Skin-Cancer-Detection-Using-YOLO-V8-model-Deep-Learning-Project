@@ -3,7 +3,7 @@
 <p>Melanoma is a type of skin cancer that originates from the pigment producing cells known as melanocytes. Melanoma is considered more dangerous than other types of skin cancer due to its ability to spread to other parts of the body. With modern technology, it is feasible to detect skin cancer at an early stage and treat it effectively. Traditional methods of melanoma detection rely on visual inspection, checking the biopsy results by dermatologists which is time consuming and is prone to human errors. Leveraging the advancements using deep learning technology.  </p>
 
 <h1>Language used</h1>
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p><b>Python :</b>Python libraries are pre-written collections of code that simplify tasks, from data manipulation (like *Pandas* and *NumPy*) to machine learning (*scikit-learn* and *TensorFlow*), and more. They help developers write efficient, reusable, and maintainable code without starting from scratch.</p>
 
 <h1>Tools used</h1>
 <li>Ultralytics : It is a library used for real time object detection and classification with high accuracy . </li>
@@ -129,9 +129,7 @@
 <h1>Step 6:</h1>
 <p>Run index.py and detect your disease , the output will be present in the output folder</p>
 
-<h1>Feel free to contact me!</h1>
-<p>Name : Adithya BS</p>
-<p>Email : workwithadithya01@gmail.com</p>
+
 
 
 
